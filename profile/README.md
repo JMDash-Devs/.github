@@ -1,4 +1,5 @@
-![JMDash - Logo](https://github.com/user-attachments/assets/812c3bc5-91a1-486d-818e-2ecf66f4df07)
+![JMDash - logoSide(https://github.com/user-attachments/assets/3a879bde-69d8-4033-bf42-86ca3a22dfa1)
+
 # JMDash Developers;
 GitHub Organization for JM- (or JMDash) active developers/maintainers. \
 This organization contains the code for [JMCompiler](https://github.com/jmdash-devs/jmdash), [JM-IDE](https://github.com/jmdash-devs/jm-ide) and *JDebugger**
