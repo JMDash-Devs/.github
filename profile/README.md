@@ -1,4 +1,4 @@
-![JMDash - logoSide(https://github.com/user-attachments/assets/3a879bde-69d8-4033-bf42-86ca3a22dfa1)
+![JMDash - logoSide](https://github.com/user-attachments/assets/3a879bde-69d8-4033-bf42-86ca3a22dfa1)
 
 # JMDash Developers;
 GitHub Organization for JM- (or JMDash) active developers/maintainers. \
