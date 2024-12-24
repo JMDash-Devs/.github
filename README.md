@@ -4,7 +4,7 @@
 GitHub Organization for JM- (or JMDash) active developers/maintainers. \
 This organization contains the code for [JMCompiler](https://github.com/jmdash-devs/jmdash), [JM-IDE](https://github.com/jmdash-devs/jm-ide) and *JDebugger**
 
-###### *JDebugger's development will start after the Init Release, so it does not have a page.
+###### *JDebugger's development will start after the Init Release, so it does not have a repo.
 ###### *For JM- Documentation see: [JMDash Docs](https://jmdash.gitbook.io/jmdash-docs)
 
 &nbsp;
